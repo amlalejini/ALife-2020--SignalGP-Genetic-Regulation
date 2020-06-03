@@ -24,6 +24,8 @@
 This repository is a companion to our 2020 ALife conference submission, Genetic Regulation Facilitates
 the Evolution of Signal-response Plasticity in Digital Organisms.
 
+**Status update: This submission was rejected. I'll post the manuscript and associated reviews after we decide next steps for this project.**
+
 ### Contributing authors
 
 - [Alexander Lalejini](https://lalejini.com/)
